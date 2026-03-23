@@ -1,0 +1,6 @@
+pdfplumber
+camelot-py[cv]
+pandas
+pytesseract
+opencv-python
+pdf2image
