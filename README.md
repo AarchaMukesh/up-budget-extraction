@@ -107,6 +107,28 @@ Validate extraction results.
 
 ---
 
+## 📂 Sample Data
+
+This repository includes a small sample to demonstrate the pipeline.
+
+### 🔹 Sample Output
+
+Location:
+
+```text
+output/debug_budget_ka_saar24_25.csv
+```
+
+This file shows extracted tabular data from a UP budget PDF.
+
+### 📌 Notes
+
+* Text may appear encoded due to Hindi font issues (Kruti Dev)
+* Numeric values are correctly extracted
+* Parsing and structuring will be handled in the next stage
+
+---
+
 # ⚠️ Problems Faced
 
 ## 🔴 1. Hindi Encoding Issue (Kruti Dev Fonts)
